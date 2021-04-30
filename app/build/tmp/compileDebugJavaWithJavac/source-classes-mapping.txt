@@ -1,0 +1,2 @@
+com/rafhabs/interactcontato/BuildConfig.java
+ com.rafhabs.interactcontato.BuildConfig
